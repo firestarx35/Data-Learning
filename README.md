@@ -33,4 +33,4 @@ Objective: Compare the performance of Convolutional AutoEncoder in the context o
 File: Decomposition_mpi4py.ipynb
 Objective: Implement domain decomposition using mpi4py to parallelize wildfire data processing.
 
-Analysis for each task can be found at the end of respective notebooks.
+### Note: Analysis for each task can be found at the end of respective notebooks.
