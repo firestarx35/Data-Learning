@@ -8,3 +8,5 @@ The following packages are needed to run the notebooks.
 - Scikit-learn
 - PyTorch
 - mpi4py
+
+Analysis of each notebook can be found at the end.
